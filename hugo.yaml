@@ -1,0 +1,36 @@
+title: MCBBS 存档
+baseURL: https://mcbbs.jasonhk.net/
+languageCode: zh-Hans-CN
+theme: PaperMod
+enableGitInfo: true
+
+permalinks:
+  section:
+    projects: /posts/
+  page:
+    projects: /posts/:slugorcontentbasename/
+
+menu:
+  main:
+    - identifier: categories
+      name: 分类
+      url: /categories/
+      weight: 1
+    - identifier: tags
+      name: 标签
+      url: /tags/
+      weight: 2
+    - identifier: timeline
+      name: 时间线
+      url: /timeline/
+      weight: 3
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  author: seer007100
+  homeInfoParams:
+    title: seer007100 的 MCBBS 贴子存档
