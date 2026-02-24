@@ -1,4 +1,5 @@
 title: MCBBS 存档
+copyright: © <a href="https://imjason.hk/" target="_blank" rel="noopener">seer007100</a>
 baseURL: https://mcbbs.jasonhk.net/
 languageCode: zh-Hans-CN
 theme: ["video", "PaperMod"]
@@ -34,8 +35,21 @@ params:
   author: seer007100
   homeInfoParams:
     title: seer007100 的帖子存档
+    content: |-                                                                                    
+      这是 [seer007100](https://imjason.hk/) 在 Minecraft 中文论坛（MCBBS）发表过的帖子的存档。本
+      存档刊登的帖子均已经过整理，包括重新排版及修复缺漏图片、影片，但并未对帖子内容作修改。
+
+      存档帖子均以[知识共享署名─非商业性使用─禁止演绎 4.0 协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)发布，
+      转载时敬请遵守协议条款。
+  socialIcons:
+    - name: 个人主页
+      url: https://imjason.hk/
+    - name: GitHub
+      url: https://github.com/JasonHK/MCBBS-Archive
   showBreadCrumbs: true
   dateFormat: 2006年1月2日
   showReadingTime: true
   showToc: true
   showPostNavLinks: true
+  footer:
+    text: Licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans" target="_blank" rel="noopener nofollow">CC BY-NC-ND 4.0</a>
