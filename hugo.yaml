@@ -6,15 +6,15 @@ enableGitInfo: true
 
 permalinks:
   section:
-    projects: /posts/
+    posts: /boards/:sections[1:]/
   page:
-    projects: /posts/:slugorcontentbasename/
+    posts: /:sections[1:]/:slugorcontentbasename/
 
 menu:
   main:
-    - identifier: categories
-      name: 分类
-      url: /categories/
+    - identifier: boards
+      name: 版块
+      url: /boards/
       weight: 1
     - identifier: tags
       name: 标签
