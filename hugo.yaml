@@ -1,7 +1,7 @@
 title: MCBBS 存档
 baseURL: https://mcbbs.jasonhk.net/
 languageCode: zh-Hans-CN
-theme: PaperMod
+theme: ["video", "PaperMod"]
 enableGitInfo: true
 
 permalinks:
