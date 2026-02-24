@@ -26,7 +26,7 @@ cover:
 
 ## 蛋糕 · 影片
 
-{{< video src="https://mcbbs-media.jasonhk.net/creativity-center/music-cupcake/demo.mp4" >}}
+{{< video src="https://mcbbs-files.jasonhk.net/creativity-center/music-cupcake/demo.mp4" >}}
 
 ## 蛋糕 · 存檔
 
