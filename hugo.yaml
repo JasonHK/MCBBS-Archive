@@ -34,3 +34,8 @@ params:
   author: seer007100
   homeInfoParams:
     title: seer007100 的帖子存档
+  showBreadCrumbs: true
+  dateFormat: 2006年1月2日
+  showReadingTime: true
+  showToc: true
+  showPostNavLinks: true
