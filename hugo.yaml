@@ -1,6 +1,6 @@
 title: MCBBS 存档
 copyright: © <a href="https://imjason.hk/" target="_blank" rel="noopener">seer007100</a>
-baseURL: https://mcbbs.jasonhk.net/
+baseURL: https://mcbbs.jasonhk.space/
 languageCode: zh-Hans-CN
 theme: ["video", "PaperMod"]
 enableGitInfo: true

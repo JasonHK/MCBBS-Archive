@@ -16,7 +16,7 @@ Yoylecake 是一種源自網絡動畫系列 [Battle for Dream Island](http://bfd
 ## Yoylecake 的影片
 
 <figure>
-{{< video src="https://mcbbs-files.jasonhk.net/creativity-center/yoylecake/yoylecake.mp4" >}}
+{{< video src="https://mcbbs-files.jasonhk.space/creativity-center/yoylecake/yoylecake.mp4" >}}
 <figcaption>
 
 The original animation was made by Jacknjellify. To view the whole episode, please visit the YouTube playlist [HERE](http://bfdi.tv/). (Also, `noclip` is required.)
