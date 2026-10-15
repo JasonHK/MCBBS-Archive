@@ -1,0 +1,4 @@
+#:schema https://www.unpkg.com/wrangler/config-schema.json
+
+[vars]
+HUGO_VERSION = "0.168.0"
