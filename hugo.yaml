@@ -36,10 +36,10 @@ params:
   homeInfoParams:
     title: seer007100 的帖子存档
     content: |-                                                                                    
-      这是 [seer007100](https://imjason.hk/) 在 Minecraft 中文论坛（MCBBS）发表过的帖子的存档。本
+      这是 <a href="https://imjason.hk/" target="_blank" rel="noopener">seer007100</a> 在 Minecraft 中文论坛（MCBBS）发表过的帖子的存档。本
       存档刊登的帖子均已经过整理，包括重新排版及修复缺漏图片、影片，但并未对帖子内容作修改。
 
-      存档帖子均以[知识共享署名─非商业性使用─禁止演绎 4.0 协议](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)发布，
+      存档帖子均以<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans" target="_blank" rel="noopener nofollow">知识共享署名─非商业性使用─禁止演绎 4.0 协议</a>发布，
       转载时敬请遵守协议条款。
   socialIcons:
     - name: 个人主页
